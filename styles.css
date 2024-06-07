@@ -1,0 +1,25 @@
+#comments-container {
+	padding-top:50%;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  height: 50px;
+  background-color: aliceblue;
+}
+
+button {
+	background-color: cyan;
+	
+	}
+	body{
+		background-color: blanchedalmond ;
+		text-align:center;
+		}
+		
+h1{
+	text-align: center;
+	color: blue;
+	}
